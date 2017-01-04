@@ -32,7 +32,7 @@
     "start": "bin/peerjs --port ${PORT:=9000}"
   },
   "cmd-util": {
-    "name": "talpa.web",
+    "name": "peerjs-server",
     "project": "talpa"
   }
 }
