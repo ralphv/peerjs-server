@@ -30,5 +30,9 @@
   "scripts": {
     "test": "mocha test",
     "start": "bin/peerjs --port ${PORT:=9000}"
+  },
+  "cmd-util": {
+    "name": "talpa.web",
+    "project": "talpa"
   }
 }
